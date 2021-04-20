@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Namita
+- 👀 I’m interested in matching great talents with great opportunities 
+- 🌱 I’m currently working with Paytm
+- 💞️ I’m looking to hire folks for backend (java & elasticsearch0, frontend (React.js), devOps and many other potential roles.
+- 📫 Intertested folks can mail me at namita.g@paytm.com
